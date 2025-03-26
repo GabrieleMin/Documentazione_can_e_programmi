@@ -1,4 +1,4 @@
-# Documentazione_can_e_programmi
+# Documentazione Can e Programmi
 
 In questa repository sono presenti tutti i file della libreria Easycan
 
