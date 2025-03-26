@@ -26,15 +26,6 @@ extern "C" {
 /* Exported types ------------------------------------------------------------*/
 /* USER CODE BEGIN ET */
 
-/* Struttura per la configurazione CAN */
-typedef struct {
-    CAN_TxHeaderTypeDef TxHeader;
-    CAN_RxHeaderTypeDef RxHeader;
-    uint32_t pTxMailbox;
-    CAN_HandleTypeDef *hcan;
-    uint32_t RxFifo;
-    uint32_t canTimeout;
-} Easycan_Struct;
 
 /* USER CODE END ET */
 
