@@ -7,4 +7,4 @@ Questa libreria è stata scritta dal Team di Software and Telemetry dell' Unipg 
 La documentazione è presente nel OneDrive del team
 
 ## Contatti 
-Per qualsiasi problema contattare Marco o Gabriele e insultali
+Per qualsiasi problema contattare Marco o Gabriele
